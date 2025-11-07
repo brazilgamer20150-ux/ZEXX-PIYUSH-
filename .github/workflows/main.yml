@@ -1,4 +1,4 @@
-
+name RDP
 Text icon
 rdp.txt
 Page
@@ -6,7 +6,7 @@ Page
 /
 1
 100%
-name: RDP 2
+name: RDP
 
 on:
   workflow_dispatch:
